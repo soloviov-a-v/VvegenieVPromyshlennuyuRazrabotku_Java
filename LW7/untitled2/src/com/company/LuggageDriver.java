@@ -1,6 +1,6 @@
 package com.company;
 
-public class LuggageDriver extends Driver implements IKadr{
+public class LuggageDriver extends Driver implements InformationMethods{
     protected boolean AllowedToTransferExpensive;
     protected boolean AllowedToTransferMore3Tonn;
     protected boolean ECategory;
@@ -41,17 +41,6 @@ public class LuggageDriver extends Driver implements IKadr{
                            boolean AllowedToLeaveCity,  boolean AllowedToTransferExpensive, boolean AllowedToTransferMore3Tonn, boolean ECategory){
         this.FIO = fio; this.BirthYear = BirthYear; this.Gen = Gen; this.Staj = Staj; this.AllowedToLeaveCity = AllowedToLeaveCity;
         this.AllowedToTransferExpensive = AllowedToTransferExpensive; this.AllowedToTransferMore3Tonn = AllowedToTransferMore3Tonn; this.ECategory = ECategory;
-    }
-
-    public LuggageDriver(){
-        this.FIO = "";
-        this.BirthYear = 1900;
-        this.Gen = true;
-        this.Staj = 0;
-        this.AllowedToLeaveCity = false;
-        this.AllowedToTransferExpensive = false;
-        this.AllowedToTransferMore3Tonn = false;
-        this.ECategory = false;
     }
 }
 

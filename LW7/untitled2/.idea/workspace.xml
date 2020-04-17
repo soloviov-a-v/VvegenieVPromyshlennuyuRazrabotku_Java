@@ -22,12 +22,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RunManager">
@@ -65,61 +60,57 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="821" y="103" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1585837494617" />
-    <state x="530" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586430547371">
+    <state x="530" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584173725498">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="530" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1586430547371" />
-    <state x="580" y="184" width="440" height="676" key="FileChooserDialogImpl" timestamp="1587114324716">
+    <state x="530" y="180" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1584173725498" />
+    <state x="580" y="184" width="440" height="676" key="FileChooserDialogImpl" timestamp="1585851203016">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="184" width="440" height="676" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1587114324716" />
-    <state width="1288" height="291" key="GridCell.Tab.0.bottom" timestamp="1587025888294">
+    <state x="580" y="184" width="440" height="676" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1585851203016" />
+    <state width="1297" height="228" key="GridCell.Tab.0.bottom" timestamp="1586425032936">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="2" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1583045768041" />
-    <state width="1288" height="291" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587025888294" />
-    <state width="1288" height="291" key="GridCell.Tab.0.center" timestamp="1587025888293">
+    <state width="1297" height="228" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586425032936" />
+    <state width="1297" height="228" key="GridCell.Tab.0.center" timestamp="1586425032936">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="2" key="GridCell.Tab.0.center/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1583045768041" />
-    <state width="1288" height="291" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1587025888293" />
-    <state width="1288" height="291" key="GridCell.Tab.0.left" timestamp="1587025888293">
+    <state width="1297" height="228" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586425032936" />
+    <state width="1297" height="228" key="GridCell.Tab.0.left" timestamp="1586425032936">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="2" key="GridCell.Tab.0.left/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1583045768041" />
-    <state width="1288" height="291" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1587025888293" />
-    <state width="1288" height="291" key="GridCell.Tab.0.right" timestamp="1587025888294">
+    <state width="1297" height="228" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586425032936" />
+    <state width="1297" height="228" key="GridCell.Tab.0.right" timestamp="1586425032936">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="2" key="GridCell.Tab.0.right/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1583045768041" />
-    <state width="1288" height="291" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1587025888294" />
-    <state width="778" height="370" key="GridCell.Tab.1.bottom" timestamp="1586599527149">
+    <state width="1297" height="228" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586425032936" />
+    <state width="778" height="276" key="GridCell.Tab.1.bottom" timestamp="1586424373418">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="778" height="370" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586599527149" />
-    <state width="778" height="370" key="GridCell.Tab.1.center" timestamp="1586599527149">
+    <state width="778" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586424373418" />
+    <state width="778" height="276" key="GridCell.Tab.1.center" timestamp="1586424373418">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="778" height="370" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1586599527149" />
-    <state width="778" height="370" key="GridCell.Tab.1.left" timestamp="1586599527149">
+    <state width="778" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1586424373418" />
+    <state width="778" height="276" key="GridCell.Tab.1.left" timestamp="1586424373417">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="778" height="370" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1586599527149" />
-    <state width="778" height="370" key="GridCell.Tab.1.right" timestamp="1586599527149">
+    <state width="778" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1586424373417" />
+    <state width="778" height="276" key="GridCell.Tab.1.right" timestamp="1586424373418">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="778" height="370" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1586599527149" />
+    <state width="778" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1586424373418" />
     <state x="303" y="75" key="SettingsEditor" timestamp="1582365748395">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="303" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1582365748395" />
-    <state x="507" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1587114049753">
+    <state x="507" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1585851194032">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="507" y="257" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1587114049753" />
-    <state x="504" y="331" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586599450137">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="504" y="331" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1600.860@0.0.1600.860" timestamp="1586599450137" />
+    <state x="507" y="257" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1585851194032" />
   </component>
 </project>

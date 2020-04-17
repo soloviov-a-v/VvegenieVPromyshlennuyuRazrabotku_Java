@@ -2,8 +2,8 @@ package com.company;
 
 import java.time.LocalDateTime;
 
-public abstract class Kadr implements IKadr
-{
+public abstract class Kadr implements InformationMethods{
+
    protected String FIO;
    protected int BirthYear;
    protected boolean Gen;

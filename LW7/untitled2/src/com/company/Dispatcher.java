@@ -1,8 +1,6 @@
 package com.company;
 
-import junit.framework.TestCase;
-
-public class Dispatcher extends Kadr implements IKadr{
+public class Dispatcher extends Kadr implements InformationMethods{
     protected String Rayon;
     protected int WorksFrom;
     protected int Staj;
@@ -26,8 +24,6 @@ public class Dispatcher extends Kadr implements IKadr{
 
     public String getProfession() {return "Dispatcher";}
     public int getZP() {return 10000 + Staj * 2000;}
-    //@TestCase(params = "10", expected = "30000")
-    public static int getZP(int Staj) {return 10000 + Staj * 2000;}
 
     public Dispatcher(String fio, int BirthYear, int Staj, boolean Gen, String Rayon, int WorksFrom, int WorksUpto){
         this.FIO = fio;
@@ -37,16 +33,6 @@ public class Dispatcher extends Kadr implements IKadr{
         this.Rayon = Rayon;
         this.WorksFrom = WorksFrom;
         this.WorksUpto = WorksUpto;
-    }
-
-    public Dispatcher(){
-        this.FIO = "";
-        this.BirthYear = 1900;
-        this.Staj = 0;
-        this.Gen = true;
-        this.Rayon = "";
-        this.WorksFrom = 0;
-        this.WorksUpto = 0;
     }
 
     public  String toString(){

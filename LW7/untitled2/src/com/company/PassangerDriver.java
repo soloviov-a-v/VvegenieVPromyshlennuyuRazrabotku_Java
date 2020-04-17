@@ -1,6 +1,6 @@
 package com.company;
 
-public class PassangerDriver extends Driver implements IKadr{
+public class PassangerDriver extends Driver implements InformationMethods{
     protected boolean VIP;
     protected boolean AllowedToTransferChlidren;
     protected boolean AllowedToTransMore8People;
@@ -39,16 +39,5 @@ public class PassangerDriver extends Driver implements IKadr{
                            boolean AllowedToLeaveCity,  boolean VIP, boolean AllowedToTransferChlidren, boolean AllowedToTransMore8People){
         this.FIO = fio; this.BirthYear = BirthYear; this.Gen = Gen; this.Staj = Staj; this.AllowedToLeaveCity = AllowedToLeaveCity;
         this.VIP = VIP; this.AllowedToTransferChlidren = AllowedToTransferChlidren; this.AllowedToTransMore8People = AllowedToTransMore8People;
-    }
-
-    public PassangerDriver(){
-        this.FIO = "";
-        this.BirthYear = 1900;
-        this.Gen = true;
-        this.Staj = 1;
-        this.AllowedToLeaveCity = false;
-        this.VIP = false;
-        this.AllowedToTransferChlidren = false;
-        this.AllowedToTransMore8People = false;
     }
 }

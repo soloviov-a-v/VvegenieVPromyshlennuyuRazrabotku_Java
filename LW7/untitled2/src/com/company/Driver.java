@@ -1,6 +1,6 @@
 package com.company;
 
-public abstract class Driver extends Kadr implements IKadr{
+public abstract class Driver extends Kadr implements InformationMethods{
     protected int Staj;
     protected boolean PersCar;
     protected boolean AllowedToLeaveCity;
